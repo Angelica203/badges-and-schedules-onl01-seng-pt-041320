@@ -30,6 +30,7 @@ def printer(attendees)
 end
   array = assign_rooms(attendees)
   array.each do |x|
+    puts x
  end
  
 end
