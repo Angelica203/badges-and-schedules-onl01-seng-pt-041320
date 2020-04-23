@@ -28,8 +28,10 @@ def printer(attendees)
  array.each_line do |x|
    puts x
 end
- array = assign_rooms(attendees)
- array.each do |x|
+  array = assign_rooms(attendees)
+  array.each do |x|
+ end
+ 
 end
 
 
