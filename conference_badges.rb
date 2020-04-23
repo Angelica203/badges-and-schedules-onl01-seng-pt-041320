@@ -24,6 +24,7 @@ def assign_rooms(name)
 end
 
 def printer(name)
+  array=
   
   badges_and_room_assignments.each_line do |line|
 end
